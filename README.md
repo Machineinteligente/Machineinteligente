@@ -1,5 +1,1 @@
-- 👋 eae! Meu nome é felype e estou aprendendo programação do zero!
-- 👀 Estou enteressado em aprender a trabalhar com python, dicas seria uma boa!
-- 🌱 Amo ler
-- 💞️ Casado
-- 📫 pode me enviar um email caso precise : ml208670@gmail.com
+
